@@ -89,18 +89,6 @@ You’ll find detailed comments and structured notebooks that reflect my learnin
 
 ---
 
-## 🌟 Featured Competitions (So Far)
-
-| Competition | Notebook | Status | Notes |
-|-------------|----------|--------|-------|
-| Titanic - ML from Disaster | `titanic_submission.ipynb` | ✅ Valid | Basic classification with Logistic & RF |
-| House Prices - Advanced Regression | `house_prices_lgbm.ipynb` | ❌ Invalid | Upload to Colab to view |
-| Digit Recognizer | `cnn_mnist_submission.ipynb` | ✅ Valid | CNN with Keras |
-
-_(More being added regularly...)_
-
----
-
 Thanks for stopping by!  
 ⭐ Star this repo if you found it useful, or fork it to build your own Kaggle archive!
 
