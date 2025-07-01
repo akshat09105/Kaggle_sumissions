@@ -13,9 +13,9 @@ Whether you're a fellow data enthusiast, recruiter, or curious learner, this rep
 - 💻 I love working with Python, C, and diving deep into ML algorithms
 - 🌐 Building full-stack skills alongside my data science journey
 - 🔗 Let's connect:
-  - 📍 GitHub: [github.com/akshatgupta2004](https://github.com/akshat09105)
-  - 💼 LinkedIn: [linkedin.com/in/akshatgupta2004](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
-  - 🏆 Kaggle: [kaggle.com/akshatgupta2004](https://www.kaggle.com/akshat9105)
+  - 📍 GitHub: [Click here](https://github.com/akshat09105)
+  - 💼 LinkedIn: [Click here](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
+  - 🏆 Kaggle: [Click here](https://www.kaggle.com/akshat9105)
 
 ---
 
